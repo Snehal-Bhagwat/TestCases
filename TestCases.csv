@@ -1,0 +1,94 @@
+Test case Name,,,Test Cases
+,,,
+Name-Textbox,,,1.Verify the name text field with null value
+,,,2.Verify the name text with 501 characters
+,,,3.Verify with numeric values
+,,,4.Verify the special characters string
+,,,5.Verify the alphanmeric input
+,,,6.Verify with different language as an input
+,,,7.verify text field with blank spaces
+,,,8.Verify with type of name field
+,,,9.Verify the fint of name label
+,,,10.Verify the validation message when field is blank
+,,,
+,,,
+Email Adress-Textbox,,,1.Verify with null values
+,,,2.Verify with 36 digits
+,,,3.Verify with only special characters
+,,,4.Verify with only alphabets
+,,,5.Verify with only numbers
+,,,6..Verify withfield with different languages as an input
+,,,7.Verify with font of email adress
+,,,8.Verify validation message when field is blank
+,,,9..Verify field with blank spaces
+,,,10.Verify field with .com keyword
+,,,
+,,,
+Company Name-Textbox,,,1.Verify with null values
+,,,2.verify with 36 digits
+,,,3.Verify with only special characters
+,,,4.Verify with only alphabets
+,,,5.Verify with only numbers
+,,,6..Verify withfield with different languages as an input
+,,,7.Verify with font of company name
+,,,8.Verify validation message when field is blank
+,,,9..Verify field with blank spaces
+,,,
+,,,
+,,,
+Phone Number-Textbox,,,1.verify with null values
+,,,2.Verify with 10 digits
+,,,3.Verify number by entering less than 10 digits
+,,,4.Verify number by entering more than 10 digits
+,,,5.Verify field by blank spaces
+,,,6.verify number by copying and pasting 
+,,,7.Verify number by entring 10 zero's
+,,,8.Verify placeholder for the number text box
+,,,9.Verify the aterisk symbol for number if field is mandatory field
+,,,10.Verify number field by entering special character 
+,,,
+,,,
+Department-List:TextBox,,,1.Verify with department list is clickable or not
+,,,2.Verify the department list can be accessed using Tab keys
+,,,3.Verify the department list field is gramatically correct
+,,,4.Verify the loading time of the list
+,,,5.Verify the selected option is highlighted or not
+,,,6.Verify the design of department list field drop down
+,,,7.Verify the field with other option
+,,,8.Verify any option selected can be changes or not
+,,,9.Verify the department list
+,,,10.Verify the department list field can be surfed using arrow keys
+,,,
+,,,
+Number Of Employees-Listbox,,,1.Verify with department list is clickable or not
+,,,2.Verify the department list can be accessed using Tab keys
+,,,3.Verify the department list field is gramatically correct
+,,,4.Verify the loading time of the list
+,,,5.Verify the selected option is highlighted or not
+,,,6.Verify the design of department list field drop down
+,,,7.Verify the field with other option
+,,,8.Verify any option selected can be changes or not
+,,,9.Verify the department list
+,,,10.Verify the department list field can be surfed using arrow keys
+,,,
+,,,
+I'm not a robot - Radio Button,,,1.Verify the radio button field is clikcable or not
+,,,2.Verify after clicking button the process is done and page gets redirected to next page
+,,,3.Verify color of the button when it left unclicked
+,,,4.Verify the font size of radio button
+,,,5.Verify the format of radio button
+,,,6.Verify whether the pictures are being displayed or not
+,,,7.Verify that radio button field gets selected when clicking
+,,,8.Verify the radio button field gets selected by Tab key
+,,,9.Verify alignment of button field
+,,,10.Verify the position of radio button field
+,,,
+,,,
+Submit Button,,,1.Verify the submit button field gets selected by Tab key
+,,,2.Verify the color of button gets changed after mouse hover
+,,,3.Verify color of the button when it left unclicked
+,,,4.Verify the height and width of button field
+,,,5.Verify the submit button field is clikcable or not
+,,,6.Verify the submit button field is readable or not
+,,,"7.Verify when entered valid data, the page gets directed to expected page"
+,,,8.Verify the font of submit button
